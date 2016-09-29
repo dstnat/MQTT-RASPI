@@ -1,4 +1,4 @@
-import sys
+﻿import sys sys
 sys.path.insert(0, 'src')
 from paho.mqtt import __version__
 
